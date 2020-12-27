@@ -1,11 +1,11 @@
 # 2048! Game Implementation in C++
 2048! Game in C++ with GUI! Enjoy Playing the Game:)
 
-** Usage
+## Usage
 
 Compile the codes using Quincy C compiler.
 
-** Screenshot
+## Screenshot
 
 <img src="/images/2048_in_C.JPG" width="290" height="400">
 
