@@ -1,5 +1,5 @@
-# 2048 Game Implementation in C
-2048 Game in C with GUI! Enjoy Playing the Game:)
+# 2048! Game Implementation in C++
+2048! Game in C++ with GUI! Enjoy Playing the Game:)
 
 ** Usage
 
