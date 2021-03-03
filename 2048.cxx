@@ -26,14 +26,14 @@ void design()
 	outtextxy(10, 50, "Join the numbers and get to the 2048 tile!");
 	setcolor(BLACK);
 	settextstyle (10,0,1);
-	outtextxy(10, 620, "‰”ŒÂ Ì 1.0 - 1394/01/06");
+	outtextxy(10, 620, "√§√ì√é√• √≠ 1.0 - 1394/01/06");
 	//COMMENT
 	setfillstyle(1,YELLOW);
 	bar(20,80,460,110);
 	setcolor(5);
 	setbkcolor(YELLOW);
 	settextstyle (8,0,1);
-	outtextxy(105, 85, "    WE ARE NOKHBE! :D");
+	outtextxy(105, 85, "     :D");
 	//SCORE
 	setfillstyle(1,6);
 	bar(260,10,350,45);
